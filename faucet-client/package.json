@@ -44,7 +44,7 @@
   "dependencies": {
     "@hcaptcha/react-hcaptcha": "^1.11.0",
     "@types/react": "^19.0.1",
-    "@types/react-dom": "^19.0.1",
+    "@types/react-dom": "^19.2.3",
     "bootstrap": "^5.3.3",
     "country-flag-icons": "^1.5.13",
     "react": "^19.0.0",
